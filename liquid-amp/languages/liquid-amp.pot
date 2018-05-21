@@ -1,0 +1,176 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"LIQUID AMP\n"
+"POT-Creation-Date: "
+"2018-05-21 14:12+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: info@lqd."
+"jp\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit "
+"2.0.6\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: 404.php:6
+msgid "Not found."
+msgstr ""
+
+#: archive.php:18
+#: index.php:42
+#: search.php:15
+msgid "no image"
+msgstr ""
+
+#: footer.php:8
+msgid "(C)"
+msgstr ""
+
+#: footer.php:8
+msgid ""
+"All rights reserved."
+msgstr ""
+
+#: footer.php:10
+msgid "Theme by"
+msgstr ""
+
+#: footer.php:10
+msgid "LIQUID PRESS"
+msgstr ""
+
+#: footer.php:11
+msgid "Powered by"
+msgstr ""
+
+#: footer.php:11
+msgid "WordPress"
+msgstr ""
+
+#: functions.php:21
+msgid "sidebar"
+msgstr ""
+
+#: functions.php:29
+msgid "headline"
+msgstr ""
+
+#: functions.php:37
+msgid "main_head"
+msgstr ""
+
+#: functions.php:45
+msgid "main_foot"
+msgstr ""
+
+#: functions.php:53
+msgid "top_header"
+msgstr ""
+
+#: functions.php:61
+msgid "footer"
+msgstr ""
+
+#: functions.php:105
+msgid "Global Menu"
+msgstr ""
+
+#: functions.php:136
+msgid "Carousel"
+msgstr ""
+
+#: functions.php:138
+msgid "Top Carousel Images"
+msgstr ""
+
+#: functions.php:146
+#: functions.php:154
+#: functions.php:162
+msgid "Size: w1200 x h400"
+msgstr ""
+
+#: functions.php:166
+msgid "Google Analytics"
+msgstr ""
+
+#: functions.php:167
+msgid "amp-analytics"
+msgstr ""
+
+#: functions.php:172
+msgid "Tracking ID"
+msgstr ""
+
+#: functions.php:173
+msgid "UA-XXXXX-Y"
+msgstr ""
+
+#: functions.php:245
+#: single.php:97
+msgid "&lt; Prev"
+msgstr ""
+
+#: functions.php:246
+#: single.php:100
+msgid "Next &gt;"
+msgstr ""
+
+#: page.php:16
+#: single.php:17
+msgid "TOP"
+msgstr ""
+
+#: page.php:59
+#: single.php:88
+msgid "No articles"
+msgstr ""
+
+#: search.php:8
+#, php-format
+msgid "Search: %s"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: single.php:36
+msgid "Last update: "
+msgstr ""
